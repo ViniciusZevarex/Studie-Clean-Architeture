@@ -1,0 +1,15 @@
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\CleanArch.Infra.Data.deps.json
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\CleanArch.Infra.Data.dll
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\ref\CleanArch.Infra.Data.dll
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\CleanArch.Infra.Data.pdb
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\CleanArch.Domain.dll
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\CleanArch.Domain.pdb
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.csproj.AssemblyReference.cache
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.AssemblyInfoInputs.cache
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.AssemblyInfo.cs
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.csproj.CoreCompileInputs.cache
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.csproj.CopyComplete
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.dll
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\ref\CleanArch.Infra.Data.dll
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.pdb

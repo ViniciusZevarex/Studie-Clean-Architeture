@@ -13,3 +13,6 @@ D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0
 D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.dll
 D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\ref\CleanArch.Infra.Data.dll
 D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.pdb
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\CleanArch.Infra.Data.runtimeconfig.json
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\CleanArch.Infra.Data.runtimeconfig.dev.json
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.genruntimeconfig.cache

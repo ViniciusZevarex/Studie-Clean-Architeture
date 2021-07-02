@@ -17,3 +17,6 @@ D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.IoC\obj\Debug\net5.0\
 D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.dll
 D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.IoC\obj\Debug\net5.0\ref\CleanArch.Infra.IoC.dll
 D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.pdb
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArch.Infra.IoC.runtimeconfig.json
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.IoC\bin\Debug\net5.0\CleanArch.Infra.IoC.runtimeconfig.dev.json
+D:\CURSOS\.NET\Clean Architeture\CleanArch\CleanArch.Infra.IoC\obj\Debug\net5.0\CleanArch.Infra.IoC.genruntimeconfig.cache

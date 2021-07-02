@@ -13,6 +13,8 @@ namespace CleanArch.Infra.Data.Context
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
+            //Para que o framework busque as configurações espalhadas na camada Infra.Data
+            //Colcou-se isso, pois configuramos as entidades no namespace CleanArch.Infra.Data.EntitiesConfiguration
             builder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
         }
 

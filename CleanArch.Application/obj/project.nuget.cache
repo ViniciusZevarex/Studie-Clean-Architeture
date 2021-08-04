@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8MFaAAQyq0J/C+PWHr/+sjhVwgzC9qyjxQwr1yeNobrc2GCaFSLsf/oP3APLOu6te79CmJxTlhBwtZa3Cw+G/g==",
+  "dgSpecHash": "87vw738zLkiiicqxi++co4yS4uePhxPV+Qr0XDdgVitPR4UcBVtFQqO4ijkskZ1WERBDJwPVdlpJIqBbz0T3jQ==",
   "success": true,
   "projectFilePath": "D:\\CURSOS\\.NET\\Clean Architeture\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius Zevarex\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Vinicius Zevarex\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Vinicius Zevarex\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Vinicius Zevarex\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

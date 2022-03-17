@@ -1,5 +1,7 @@
 ﻿using CleanArch.Application.DTOs;
 using CleanArch.Application.Interfaces;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -8,6 +10,7 @@ namespace CleanArch.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class ProductsController : ControllerBase
     {
 
@@ -17,6 +20,8 @@ namespace CleanArch.API.Controllers
         {
             _productService = productService;
         }
+
+
 
 
         [HttpGet]
@@ -30,6 +35,8 @@ namespace CleanArch.API.Controllers
             return Ok(produtos);
         }
 
+
+
         [HttpGet("{id}", Name = "GetProduct")]
         public async Task<ActionResult<ProductDTO>> Get(int id)
         {
@@ -40,6 +47,8 @@ namespace CleanArch.API.Controllers
             }
             return Ok(produto);
         }
+
+
 
         [HttpPost]
         public async Task<ActionResult> Post([FromBody] ProductDTO produtoDto)
@@ -52,6 +61,8 @@ namespace CleanArch.API.Controllers
             return new CreatedAtRouteResult("GetProduct",
                 new { id = produtoDto.Id }, produtoDto);
         }
+
+
 
         [HttpPut("{id}")]
         public async Task<ActionResult> Put(int id, [FromBody] ProductDTO produtoDto)
@@ -68,6 +79,8 @@ namespace CleanArch.API.Controllers
 
             return Ok(produtoDto);
         }
+
+
 
         [HttpDelete("{id}")]
         public async Task<ActionResult<ProductDTO>> Delete(int id)
